@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505518350 source:/home/dustin/CodeBlocks/Numbers List/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
